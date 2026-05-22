@@ -245,4 +245,4 @@ Capture screenshots of:
 
 ---
 
-*DevOps Continuous Assessment — LPU CSE | Ashwin Sathiya (12308018)*
+DevOps Continuous Assessment — LPU CSE
