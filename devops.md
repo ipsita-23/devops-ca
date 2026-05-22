@@ -235,13 +235,6 @@ tests/test_model.py::test_predict_risk_no_model     PASSED
 
 ---
 
-## 9. Evidence for CA Submission
-
-Capture screenshots of:
-1. ✅ GitHub Actions → all 3 jobs green
-2. 🐳 `ghcr.io/<owner>/dropout-prediction` image on GHCR
-3. `docker-compose up` output + app at `http://localhost:8501`
-4. Pytest output showing 16 passed
 
 ---
 
